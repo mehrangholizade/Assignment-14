@@ -1,0 +1,15 @@
+#pointer{
+    width:70px;
+    position: relative;
+   bottom: 215;
+   left: 640 ;
+    transform: rotate(180deg);
+    
+}
+#wheel{
+    position: relative;
+    width:400px ;
+    left: 300px;
+    top: 100;
+    
+}
